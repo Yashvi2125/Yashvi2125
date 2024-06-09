@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yashvi2125](https://github.com/Yashvi2125)
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JavaScript,Node.js,React.js,MongoDB,MySQL,C,C++.js**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JavaScript,Node.js,React.js,MongoDB,MySQL,C,C++**
 
 - 📫 How to reach me **purohityashvi2125@gmail.com**
 
